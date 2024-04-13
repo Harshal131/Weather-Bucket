@@ -1,0 +1,11 @@
+# Ignore .env file
+.env
+
+# Ignore logs folder
+minio_data/
+
+# Ignore __pycache__ folders
+**/__pycache__/
+
+# Ignore compiled Python files
+*.pyc
